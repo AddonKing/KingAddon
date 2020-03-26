@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name[COLOR white]BEM VINDOS AO[/COLOR] [COLOR darkred] KING PLAY [/COLOR]</name>
+<thumbnail>https://archive.org/download/bem_vindos_king_play/bem_vindos_king_play.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://ia601508.us.archive.org/11/items/fanart_20200326/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR darkred]|[/COLOR] Seja bem vindo ao King Play [COLOR darkred]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,10 +17,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRAR NO ADDON [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801404.us.archive.org/34/items/bem_vindos_king_play/entrar_king_play.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/PalladinoAddon/PalladinoAddon/master/CATEGORIAS</externallink>
-<fanart></fanart>
+<fanart>https://ia601508.us.archive.org/11/items/fanart_20200326/fanart.jpg</fanart>
 <info>
 
 
