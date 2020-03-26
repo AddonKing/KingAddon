@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR white]BEM-VINDOS AO KING PLAY[/COLOR]</name>
+<name>[COLOR white]BEM-VINDOS AO[/COLOR] [COLOR orangered]KING PLAY[/COLOR]</name>
 <thumbnail>https://archive.org/download/bem_vindos_king_play/bem_vindos_king_play.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601404.us.archive.org/34/items/bem_vindos_king_play/fanart.jpg</fanart>
 <info>
 
 
-[COLOR darkred]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR darkred]|[/COLOR]</info>
+[COLOR darkred]|[/COLOR] [COLOR orangered]Seja bem-vindo ao addon King Play versão 1.1[/COLOR][COLOR darkred]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR darkred]KINGPLAY:[/COLOR][COLOR white]ENTRAR NO ADDON[/COLOR]</name>
+<name>[COLOR darkred]KINGPLAY: [/COLOR][COLOR white]ENTRAR NO ADDON[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/34/items/bem_vindos_king_play/entrar_king_play.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601404.us.archive.org/34/items/bem_vindos_king_play/fanart.jpg</fanart>
