@@ -7,6 +7,25 @@
 <info>[COLOR darkorange]|[/COLOR] [COLOR white]Os melhores filmes de ação reunidos aqui![/COLOR][COLOR darkorange]|[/COLOR]</info>
 </item>
 
+B
+<item>
+<title>[B]Bumblebee[COLOR darkorange] (2018/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg</fanart>
+<info>É 1987. Refugiado num ferro-velho numa pequena cidade praiana da Califórnia, Bumblebee, um fusca amarelo aos pedaços, machucado e sem condição de uso, é encontrado e consertado pela jovem Charlie (Hailee Steinfeld), às vésperas de completar 18 anos. Só quando Bee ganha vida ela enfim nota que seu novo amigo é bem mais do que um simples automóvel.</info>
+</item>
+
+F
+<item>
+<title>[B]Ford vs. Ferrari[COLOR darkorange] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DP2i8k-Yy0jmVYoCxHAKLccCDcgQgM8H/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hQD9xGJOh7e0h3Md6BB8oxtPQS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mn9k8zapebAbCqsiKf24juhXjjx.jpg</fanart>
+<info>Durante a década de 1960, a Ford resolve entrar no ramo das corridas automobilísticas de forma que a empresa ganhe o prestígio e o glamour da concorrente Ferrari, campeoníssima em várias corridas. Para tanto, contrata o ex-piloto Carroll Shelby (Matt Damon) para chefiar a empreitada. Por mais que tenha carta branca para montar sua equipe, incluindo o piloto e engenheiro Ken Miles (Christian Bale), Shelby enfrenta problemas com a diretoria da Ford, especialmente pela mentalidade mais voltada para os negócios e a imagem da empresa do que propriamente em relação ao aspecto esportivo.</info>
+</item>
+
+V
 <item>
 <title>[B]Velozes e Furiosos: Hobbs & Shaw [COLOR darkorange](2019)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pRgIxKkiZpIB5NUKDNCNWuU_WTZ_yIcL/view</link>
@@ -15,13 +34,6 @@
 <info>Desde que se conheceram, em "Velozes & Furiosos 7", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.</info>
 </item>
 
-<item>
-<title>[B]Ford vs. Ferrari[COLOR darkorange] (2019)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DP2i8k-Yy0jmVYoCxHAKLccCDcgQgM8H/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hQD9xGJOh7e0h3Md6BB8oxtPQS.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mn9k8zapebAbCqsiKf24juhXjjx.jpg</fanart>
-<info>Durante a década de 1960, a Ford resolve entrar no ramo das corridas automobilísticas de forma que a empresa ganhe o prestígio e o glamour da concorrente Ferrari, campeoníssima em várias corridas. Para tanto, contrata o ex-piloto Carroll Shelby (Matt Damon) para chefiar a empreitada. Por mais que tenha carta branca para montar sua equipe, incluindo o piloto e engenheiro Ken Miles (Christian Bale), Shelby enfrenta problemas com a diretoria da Ford, especialmente pela mentalidade mais voltada para os negócios e a imagem da empresa do que propriamente em relação ao aspecto esportivo.</info>
-</item>
 
 
 
