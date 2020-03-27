@@ -7,7 +7,7 @@ item>
 </item>
 
 <item>
-<title>[B]HARRY POTTER[B]</title>
+<title>[B]HARRY POTTER[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17Fl0CSaeSMU4JE2E4s7J1Dcu6Zl50hOy/view$$lsname=Ordem da Fenix</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GKYUr2n5fZNu1uWO6HMBHrjZRt0CCzI-/view$$lsname=Camara Secreta</link>
 <thumbnail>https://i.pinimg.com/originals/d1/2a/7f/d12a7f47769117d711a0780d4c952358.png</thumbnail>
