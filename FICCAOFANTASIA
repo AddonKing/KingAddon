@@ -6,6 +6,16 @@
 <info>[COLOR darkorange]|[/COLOR] [COLOR white]Os melhores filmes de Ficção/Fantasia reunidos aqui![/COLOR][COLOR darkorange]|[/COLOR]</info></info>
 </item>
 
+M
+<item>
+<title>[B]Animais Fantásticos: Os Crimes de Grindelwald[COLOR darkorange] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wdj2Dsk_PE3ykHp1xaXi3CJjKA6AOJ1L/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/heyvaoVLGC8lcB4FFoz65EBI8xF.jpg</fanart>
+<info>Newt Scamander (Eddie Redmayne) reencontra os queridos amigos Tina Goldstein (Katherine Waterston), Queenie Goldstein (Alison Sudol) e Jacob Kowalski (Dan Fogler). Ele é recrutado pelo seu antigo professor em Hogwarts, Alvo Dumbledore (Jude Law), para enfrentar o terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), que escapou da custódia da MACUSA (Congresso Mágico dos EUA) e reúne seguidores, dividindo o mundo entre seres de magos sangue puro e seres não-mágicos.</info>
+</item>
+
+H
 <item>
 <title>[B]HARRY POTTER[COLOR darkorange]COLETÂNEA[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQKBwo5sRR46Izq7DS0H6zz19eGF3UIP/view$$lsname=[COLOR darkorange]1[/COLOR] - A Pedra Filosofal [COLOR darkorange](2001)[/COLOR]</link>
@@ -20,6 +30,8 @@
 <fanart>https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg</fanart>
 <info>Coletânea com  todos os filmes da saga Harry Potter</info>
 </item>
+
+
 
 
 
