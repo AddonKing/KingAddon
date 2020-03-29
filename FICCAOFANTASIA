@@ -25,7 +25,7 @@ M
 </item>
 
 <item>
-<title>[B][COLOR darkorange]"NEW [/COLOR][/B][B]NOME - [COLOR maroon]2020 [/COLOR] - [COLOR orangered] HD [/COLOR] - DUAL AUDIO[/B]</title>
+<title>[B][COLOR darkorange]*NEW [/COLOR][/B][B]NOME - [COLOR maroon]2020 [/COLOR] - [COLOR orangered] HD [/COLOR] - DUAL AUDIO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
 <thumbnail></thumbnail>
