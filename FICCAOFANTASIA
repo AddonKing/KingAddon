@@ -37,6 +37,16 @@ H
 </item>
 
 <item>
+<title>[B][COLOR darkorange]"NEW [/COLOR][/B][B]NOME - [COLOR maroon]2020 [/COLOR] - [COLOR orangered] HD [/COLOR] - DUAL AUDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
 <title>[B]A Pedra Filosofal[COLOR darkorange] (2001)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13TpjZ_Om6CCcVSxSlphL4j_ug8zchNmG/view</link>
 <thumbnail</thumbnail>
