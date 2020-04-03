@@ -1,16 +1,69 @@
+<item>
+<title>[B]GOOD OMENS[COLOR darkorange] (2019)[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Em 2019, o mundo está à beira de um apocalipse enquanto a humanidade se prepara para um julgamento final. Mas ocorrem loucuras - Aziraphale, um anjo um tanto exigente, e Crowley, um demônio, não estão entusiasmados com o fim do mundo, e parecem não encontrar o Anticristo.[/COLOR]</info>
+</item>
 
-<channels>
-<channel>
-<name>[B]1 TEMP[COLOR darkorange] (TESTE)[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/lancamentos_king_play/lancamentos_king_play.png </thumbnail>
-<externallink>https://raw.githubusercontent.com/AddonKing/KingAddon/master/GOODOMENS1TEMPLEG</externallink>
-<fanart>https://ia601404.us.archive.org/34/items/bem_vindos_king_play/fanart.jpg</fanart>
-<info>
+<item>
+<title>[B]T01EP01[COLOR darkorange][I]In the Beginning[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YcxHa3e_0EmSxNh6jZ2wpt_C-7XLf5ic/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Aziraphale e Crowley, respectivamente do Céu e do Inferno, concordam em unir forças para evitar o Armagedom. Eles tentam criar o Anticristo em um ambiente equilibrado e humano, mas será que estão concentrando seus esforços na direção certa?</info>
+</item>
 
-<channels>
-<channel>
-<name>[B]2 TEMP[COLOR darkorange] (TESTE)[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/lancamentos_king_play/lancamentos_king_play.png </thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601404.us.archive.org/34/items/bem_vindos_king_play/fanart.jpg</fanart>
-<info>
+<item>
+<title>[B]T01EP02[COLOR darkorange][I]The Book[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UGjqGTS654dpQH76XoCU0-JVz-VLawEM/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Tendo acompanhado o menino errado por vários anos, Aziraphale e Crowley precisam agora localizar o verdadeiro Anticristo. Talvez a história de Agnes Nutter e suas famosas profecias contenham a resposta.</info>
+</item>
+
+<item>
+<title>[B]T01EP03[COLOR darkorange][I]Hard Times[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kRw98JgvcJKBGTEVSCOYAD1thB5zW7A8/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Nós seguimos a amizade de Aziraphale e Crowley através dos tempos. Enquanto isso, nos dias atuais, a descendente de Agnes Nutter, Anathema, chega a Tadfield com a missão de salvar o mundo.</info>
+</item>
+
+<item>
+<title>[B]T01EP04[COLOR darkorange][I]Saturday Morning Funtimes[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z0FqeCUSCFyVfjfETIISkt7UX4eQ-3Ua/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>A amizade de Aziraphale e Crowley é testada quando seus superiores os confrontam. O Armagedom começa para valer, com o Anticristo usando seus poderes para espalhar o caos pelo mundo inteiro.</info>
+</item>
+
+<item>
+<title>[B]T01EP05[COLOR darkorange][I]The Doomsday Options[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TMX4gqOqWc4CWpzwoC9EpdZ3VJZI6_UC/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Aziraphale e Crowley correm para a base aérea de Tadfield na tentativa de impedir que Adam e os Quatro Cavaleiros iniciem o apocalipse. Mas um deles foi desmaterializado e o outro está preso em uma estrada em chamas. Será que conseguirão chegar a tempo?</info>
+</item>
+
+<item>
+<title>[B]T01EP06[COLOR darkorange][I]The Very Last Day of the Rest of Their Lives[/I][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11EJGpRgSKvrS3UHEXb3mKvh_eJcgPxyq/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR3vMfHvoiYArNSQSpsm2byeys2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/omZbhqVDpXsfGMFUyxIjh1huqD.jpg</fanart>
+<info>Será que Adam, Crowley e Aziraphale podem, juntos, combater os poderes do Céu e do Inferno para evitar o apocalipse? E o que acontecerá com eles se conseguirem? A história chega ao final, e talvez seja mesmo o fim do mundo</info>
+</item>
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
