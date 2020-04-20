@@ -8,7 +8,7 @@
 
 A
 <item>
-<title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa][/B][COLOR darkorange] (2020)[/COLOR]</title>
+<title>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa[/B][COLOR darkorange] (2020)[/COLOR]</title>
     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uIpO9ZbbzuR_CdHxpLi5jQe8cCrAWXkB/view$$lsname=[COLOR darkorange]1[/COLOR] - Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [COLOR darkorange](DUB)[/COLOR]</link>
     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RxTn5DQRBOsCSQ5YKMU_kJes7nTHGjoB/view$$lsname=[COLOR darkorange]2[/COLOR] - Aves de Rapina: Arlequina e sua Emancipação Fantabulosa [COLOR darkorange](LEG)[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg</thumbnail>
@@ -28,7 +28,8 @@ B
 
 <item>
 <title>[B]Bloodshot[COLOR darkorange] (2020)[/COLOR][/B]</title>
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZCCD0aK0_3EyzFv30Brl9JsCkQirWrsu/view</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x4Q-A1wf8u_93a7zby4EXzvuxDxL6eB9/view$$lsname=[COLOR darkorange]1[/COLOR] - Bloodshot [COLOR darkorange](DUB)[/COLOR]</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X384bmhZhbfHKLyts0JST6S4lQox8H0o/view$$lsname=[COLOR darkorange]2[/COLOR] - Bloodshot [COLOR darkorange](LEG)[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/lP5eKh8WOcPysfELrUpGhHJGZEH.jpg</fanart>
     <info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.</info>
@@ -36,8 +37,9 @@ B
 
 J
 <item>
-<title>[B]Jumanji[COLOR darkorange](2020)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14D6Bp8U8lrwmpJCE8Ld-a6Vn7uK6Oo7I/view</link>
+<title>[B]Jumanji - Próxima Fase[COLOR darkorange](2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14D6Bp8U8lrwmpJCE8Ld-a6Vn7uK6Oo7I/view$$lsname=[COLOR darkorange]1[/COLOR] - Jumanji - Próxima Fase [COLOR darkorange](DUB)[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvubifskW0CBFQKWGXifbow-t84XyOq5/view$$lsname=[COLOR darkorange]2[/COLOR] - Jumanji - Próxima Fase [COLOR darkorange](LEG)[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lP5eKh8WOcPysfELrUpGhHJGZEH.jpg</fanart>
 <info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.</info>
